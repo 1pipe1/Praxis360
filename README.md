@@ -9,11 +9,11 @@ Decisiones clave:
 
 - Target: PWA móvil
 - Stack: React + TypeScript, Firebase, CSS
-- Autenticación: Google Sign-In, autenticidad con huella dactilar 
+- Autenticación: Google Sign-In, autenticidad con huella dactilar
 - Funcionalidades MVP: múltiples cuentas, registro de transacciones, alertas/presupuestos, soporte offline
 
-##Documentación 
-La documentacion s epodra detallar de una mejor manera desde la carpeta principal (en `docs/`):
+##Documentación
+La documentacion sepodra detallar de una mejor manera desde la carpeta principal (en `docs/`):
 
 - [Alcance](docs/alcance_del_proyecto.md)
 - [Arquitectura](docs/arquitectura_del_proyecto.md)
